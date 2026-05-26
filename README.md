@@ -5,5 +5,5 @@
 
 <div align="center">
   <a href="https://github.com/paulohliima">
-    <img height="150em" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohliima&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohliima&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 </div>
