@@ -29,16 +29,6 @@ src="https://streak-stats.demolab.com?user=paulohliima&theme=chartreuse-dark"/>
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=paulohliima&theme=chartreuse-dark"/>
-
-</div>
-
----
-
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -47,11 +37,11 @@ src="https://streak-stats.demolab.com?user=paulohliima&theme=chartreuse-dark"/>
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.instagram.com/" target="_blank">
+<a href="https://www.instagram.com/paulohliima" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/paulohliima" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
