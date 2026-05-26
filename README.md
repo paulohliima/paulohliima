@@ -23,23 +23,7 @@ Fullstack Developer passionate about technology, scalable applications, and cont
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=paulohliima&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohliima&layout=compact&langs_count=8&theme=chartreuse-dark"/>
-
-<img height="180em"
 src="https://streak-stats.demolab.com?user=paulohliima&theme=chartreuse-dark"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=paulohliima&theme=matrix&no-frame=true&margin-w=10"/>
 
 </div>
 
